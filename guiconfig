@@ -16,7 +16,7 @@
             <Field name="altBackground" type="string">#d5f6e6</Field>
             <Field name="altForeground" type="string">#3c1a78</Field>
             <Field name="fontName" type="string">Helvetica,12,-1,5,50,0,0,0,0,0</Field>
-            <Field name="style" type="string">macintosh</Field>
+            <Field name="style" type="string">Mac</Field>
             <Field name="orientation" type="int">0</Field>
         </Object>
         <Field name="postWhenShown" type="bool">false</Field>
