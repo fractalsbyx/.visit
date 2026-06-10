@@ -8,3 +8,9 @@
 
 # state file(s)
 state*.txt
+
+# recovery files
+crash_recovery*
+
+#hosts
+hosts
