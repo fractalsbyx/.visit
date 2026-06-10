@@ -1287,8 +1287,7 @@
                         <Field name="color" type="unsignedCharArray" length="4">0 0 0 255 </Field>
                     </Object>
                 </Object>
-                <Field name="colorTableName" type="string">RdBu</Field>
-                <Field name="invertColorTable" type="bool">true</Field>
+                <Field name="colorTableName" type="string">cool-boys</Field>
                 <Object name="wireframeColor">
                     <Object name="ColorAttribute">
                         <Field name="color" type="unsignedCharArray" length="4">0 0 0 0 </Field>
